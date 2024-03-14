@@ -45,6 +45,9 @@ typing_extensions==4.10.0
 urllib3==2.2.1
 Werkzeug==3.0.1
 
+## API
+https://pokeapi.co/
+
 ## Creator
 dcmanik
 fasyailyac
