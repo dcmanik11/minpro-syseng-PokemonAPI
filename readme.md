@@ -46,7 +46,7 @@ urllib3==2.2.1
 Werkzeug==3.0.1
 
 ## API
-https://pokeapi.co/
+https://pokeapi.co/api/v2/
 
 ## Creator
 dcmanik
